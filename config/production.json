@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "aleksandr youtube mern",
+    "mongoUri": "mongodb+srv://aleksandr:q1w2e3r4t5@cluster0.tcf4k.mongodb.net/app",
+    "baseUrl": "http://localhost:5000"
+}
